@@ -6,7 +6,7 @@ It provides insights into Sales, Profit, Orders, KPIs, and Customer Segments wit
 ---
 
 # 📊 Dashboard Preview
-![Dashboard Screenshot](docs/screenshot.png)
+![Dashboard Screenshot](screenshot.png)
 
 ---
 
