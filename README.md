@@ -30,7 +30,7 @@ Features :
 Files in this Repository
 - `Dynamic_Dashboard.xlsx` → Main Excel dashboard  
 - `excel_dataset.xlsx` → Dataset used to build the dashboard  
-- `docs/screenshot.png` → Preview image of the dashboard  
+- `screenshot.png` → Preview image of the dashboard  
 
 ---
 
